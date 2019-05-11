@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "96698263138",
+    "firebase_url": "https://one2onechat-fb80e.firebaseio.com",
+    "project_id": "one2onechat-fb80e",
+    "storage_bucket": "one2onechat-fb80e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96698263138:android:1e25bf42eccc2f88",
+        "android_client_info": {
+          "package_name": "ga.bolehju.one2onechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96698263138-1geejhetf43d80ejckk1p0efo84pj2c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ga.bolehju.one2onechat",
+            "certificate_hash": "7e469ef5f5d5f6d87e440e4be4bf6a3cbec53769"
+          }
+        },
+        {
+          "client_id": "96698263138-tpprmlh226scj90nqst09o474bdlrlnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf8UFSr3AltjqoVh6xdwwzRMWe1rKI3Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96698263138-tpprmlh226scj90nqst09o474bdlrlnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
